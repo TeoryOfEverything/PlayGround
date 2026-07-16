@@ -1,6 +1,10 @@
+.vs/
 bin/
 obj/
-.vs/
+packages/
 *.user
 *.suo
-packages/
+*.db
+*.slnx
+Thumbs.db
+Desktop.ini
