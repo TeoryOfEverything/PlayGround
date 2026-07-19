@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PlayGround.Lesson2
+namespace Lesson2
 {
-    internal class L2
+    internal class Practice
     {
     }
 }

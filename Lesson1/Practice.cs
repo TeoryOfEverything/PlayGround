@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PlayGround.Lesson1
 {
-    internal class L1
+    internal class Practice
     {
         public void GetGreetings()
         {

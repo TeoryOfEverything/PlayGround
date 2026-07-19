@@ -1,9 +1,14 @@
-﻿using PlayGround;
+﻿using Main;
+using PlayGround;
 
 class Program
 {
     static void Main()
     {
-        Homework.PlayKNB();
+        //Homework1.PlayKNB();
+        Homework2.RandomChislo();
+        
     }
+
+
 }

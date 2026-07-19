@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PlayGround
 {
-    internal class Homework
+    internal class Homework1
     {
         public static void PlayKNB()
         {
@@ -105,7 +105,7 @@ namespace PlayGround
                 string answer = Console.ReadLine();
                 answer = answer.ToLower();
 
-                if (answer != "д" && answer != "да" && answer != "y" && answer != "yes")
+                if (answer != "y" && answer != "Y")
                 {
                     play = false;
                 }
