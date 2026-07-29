@@ -5,7 +5,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <RootNamespace>PlayGround.Lesson3</RootNamespace>
+    <RootNamespace>PlayGround.Lesson4</RootNamespace>
+    <AssemblyName>Lesson4</AssemblyName>
   </PropertyGroup>
 
 </Project>

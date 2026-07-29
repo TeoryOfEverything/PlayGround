@@ -2,5 +2,7 @@
   <Project Path="Lesson1/Lesson1.csproj" Id="1e3d63a4-2e71-48c5-a890-d4685dc0a91e" />
   <Project Path="Lesson2/Lesson2.csproj" Id="b4fd7a2e-a103-4773-98dd-eafd6a67b5c8" />
   <Project Path="Lesson3/Lesson3.csproj" Id="e6a44a44-7120-4195-adaa-8fbc7bb454d2" />
+  <Project Path="lesson4/lesson4.csproj" Id="3d202e6f-3bc5-45e9-981b-38f2933371d8" />
+  <Project Path="Lesson5/Lesson5.csproj" Id="05eb7069-7fb4-4acb-a14b-8bae5baf1c6a" />
   <Project Path="PlayGround/Main.csproj" />
 </Solution>

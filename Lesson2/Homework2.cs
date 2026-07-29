@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PlayGround.Lesson2;
 
-namespace Main
-{
-    public class Homework2
+public class Homework2
     {
         public static void RandomChislo()
         {
@@ -150,5 +146,4 @@ namespace Main
                 Console.ReadKey();
             }
         }
-    }
 }

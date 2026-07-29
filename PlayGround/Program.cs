@@ -1,14 +1,15 @@
-﻿using Main;
-using PlayGround;
+﻿using PlayGround.Lesson2;
+using PlayGround.Lesson3;
+using PlayGround.Lesson5;
 
-class Program
+namespace PlayGround;
+
+public class Program
 {
-    static void Main()
+    public static void Main()
     {
-        //Homework1.PlayKNB();
-        Homework2.RandomChislo();
-        
+        // Homework1.PlayKNB();
+        //Homework2.RandomChislo();
+        Homework.ProveritParol();
     }
-
-
 }

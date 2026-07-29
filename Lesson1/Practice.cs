@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PlayGround.Lesson1;
 
-namespace PlayGround.Lesson1
-{
-    internal class Practice
+internal class Practice
     {
         public void GetGreetings()
         {
@@ -63,8 +59,6 @@ namespace PlayGround.Lesson1
             {
                 Console.WriteLine("Ругаемся!");
             }
-
         }
-    }
 }
 

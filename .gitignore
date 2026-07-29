@@ -1,10 +1,41 @@
+# Visual Studio
 .vs/
 bin/
 obj/
-packages/
 *.user
 *.suo
-*.db
-*.slnx
-Thumbs.db
-Desktop.ini
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# dotenv
+.env
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.packages.config
+
+# Backup files
+*.bak
+*.tmp
+*~

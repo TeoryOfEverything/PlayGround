@@ -1,5 +1,4 @@
-﻿using Lesson3;
-using System.Drawing;
+﻿using PlayGround.Lesson3;
 
 Practice practice = new Practice();
 

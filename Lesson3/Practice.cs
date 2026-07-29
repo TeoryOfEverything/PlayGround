@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Text;
+﻿namespace PlayGround.Lesson3;
 
-namespace Lesson3
-{
-    internal class Practice
+internal class Practice
     {
         //
         public void Main()
@@ -111,5 +106,4 @@ namespace Lesson3
                     break;
             }
         }
-    }
 }

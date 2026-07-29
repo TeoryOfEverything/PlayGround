@@ -5,6 +5,15 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RootNamespace>PlayGround</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lesson1\Lesson1.csproj" />
+    <ProjectReference Include="..\Lesson2\Lesson2.csproj" />
+    <ProjectReference Include="..\Lesson3\Lesson3.csproj" />
+    <ProjectReference Include="..\lesson4\lesson4.csproj" />
+    <ProjectReference Include="..\Lesson5\Lesson5.csproj" />
+  </ItemGroup>
 
 </Project>

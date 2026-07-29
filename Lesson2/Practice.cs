@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PlayGround.Lesson2;
 
-namespace Lesson2
+internal class Practice
 {
-    internal class Practice
-    {
-    }
 }

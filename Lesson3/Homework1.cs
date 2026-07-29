@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PlayGround.Lesson3;
 
-namespace PlayGround
-{
-    internal class Homework1
+internal class Homework1
     {
         public static void PlayKNB()
         {
@@ -130,6 +126,4 @@ namespace PlayGround
 
             Console.ReadKey();
         }
-
-    }
 }
