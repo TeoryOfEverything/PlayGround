@@ -11,6 +11,8 @@ public class Program
     {
         // Homework1.PlayKNB();
         //Homework2.RandomChislo();
-        Homework.ProveritParol();
+        //Homework.ProveritParol();
+        Lesson6.Homework.Task09();
+        Lesson6.Homework.Task01();
     }
 }
