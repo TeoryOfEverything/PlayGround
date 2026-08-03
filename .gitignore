@@ -1,6 +1,5 @@
 
-**/Homework*.cs
-**/Homework/
+
 
 **/bin/
 **/obj/
@@ -13,3 +12,4 @@
 *.ilk
 *.exe
 *.dll"" 
+
