@@ -1,2 +1,21 @@
  **/Homework*.cs
  **/Homework/"" 
+ .vs/
+".vs/" 
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+.vs/
+*.user
+*.suo
+
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.cache
+
+Thumbs.db
+*.tmp
