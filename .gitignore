@@ -1,0 +1,15 @@
+
+**/Homework*.cs
+**/Homework/
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+.vs/
+
+*.pdb
+*.ilk
+*.exe
+*.dll"" 
