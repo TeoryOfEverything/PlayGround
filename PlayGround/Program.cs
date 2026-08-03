@@ -1,6 +1,7 @@
 ﻿using PlayGround.Lesson2;
 using PlayGround.Lesson3;
 using PlayGround.Lesson5;
+using PlayGround.Lesson6;
 
 namespace PlayGround;
 
