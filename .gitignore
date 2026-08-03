@@ -1,3 +1,4 @@
+
  **/Homework*.cs
  **/Homework/"" 
  .vs/
@@ -19,3 +20,18 @@
 
 Thumbs.db
 *.tmp
+
+
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+.vs/
+
+*.pdb
+*.ilk
+*.exe
+*.dll"" 
+
